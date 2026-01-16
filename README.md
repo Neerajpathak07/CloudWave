@@ -100,3 +100,4 @@ cloudwave/
 - AI integration for real-time monitoring of climate changes in Oceanic Regions.
 - Tracking data for every single Buoy on the grid.
 - OpenTelemetary use case integration.
+
